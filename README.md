@@ -5,6 +5,9 @@
 - ♟️ I enjoy playing **chess** and solving **Rubik's cubes**.
 - 💻 My most notable projects include scripts for **automation** and **assistance** in cybersecurity investigations and tasks.
 
+## Contact
+- Mail **emilianoleal13@gmail.com**
+
 ## Skills and Certifications
 - 🛡️ **Cisco Certified CyberOps Associate (CCST)**
 - 🔐 **Certified in Cybersecurity (CC) by ISC2**
